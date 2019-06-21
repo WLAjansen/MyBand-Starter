@@ -1,5 +1,5 @@
 ## Titel van jouw website
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
+http://26725.hosts2.ma-cloud.nl/bewijzenmap/periode1.4/proj/formula/homepage.php is een website van Lucas Jansen waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
 De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is: 
